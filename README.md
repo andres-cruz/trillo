@@ -3,5 +3,5 @@
 Trillo Website | Built with Flexbox
 
 -- npm run start
--- continuar desde 83. Building the description minuto 10:31
+-- continuar desde 86. Writing media queries minuto 5:36
 Continue this project
