@@ -1,10 +1,6 @@
 # Trillo
 
-This project is based on the course "Advanced CSS and Sass" by Jonas Schmedtmann. If you want to check the course, go to this [link.](https://www.udemy.com/course/advanced-css-and-sass/)
-
-### Project Description:
-
-This project makes use of flexbox for layout composition and positioning elements.
+This project is based on the course by Jonas Schmedtmann ["Advanced CSS and Sass"](https://www.udemy.com/course/advanced-css-and-sass/). The project makes use of Flexbox to build the layout.
 
 ![](image/trillo.png)
 
